@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/vivephp" title="Vive"><img src="https://github.com/vivephp/art/blob/HEAD/images/vive.svg" alt="Vive Logo" width="160" height="160"/></a>
+  <a href="https://ske.deno.dev/" title="Sigui Kessé Emmanuel"><img src="https://github.com/siguici/art/blob/HEAD/images/ske.svg" alt="SKE" width="160" height="160"/></a>
 </p>
 <div align="center">
 
@@ -13,42 +13,42 @@
 
 </div>
 
-[vive-link]: https://github.com/vivephp "Vive"
+[ske-link]: https://ske.deno.dev "Sigui Kessé Emmanuel"
 
 [php-icon]: https://img.shields.io/badge/PHP-ccc.svg?style=flat&logo=php
-[php-link]: https://github.com/vivephp/skeleton/search?l=php "PHP code"
+[php-link]: https://github.com/siguici/skeleton/search?l=php "PHP code"
 
-[packagist-version-icon]: https://img.shields.io/packagist/v/vivephp/skeleton
-[packagist-version-link]: https://packagist.org/packages/vivephp/skeleton "Skeleton Releases"
+[packagist-version-icon]: https://img.shields.io/packagist/v/siguici/skeleton
+[packagist-version-link]: https://packagist.org/packages/siguici/skeleton "Skeleton Releases"
 
-[packagist-download-icon]: https://img.shields.io/packagist/dt/vivephp/skeleton
-[packagist-download-link]: https://packagist.org/packages/vivephp/skeleton "Skeleton Downloads"
+[packagist-download-icon]: https://img.shields.io/packagist/dt/siguici/skeleton
+[packagist-download-link]: https://packagist.org/packages/siguici/skeleton "Skeleton Downloads"
 
-[actions-icon]: https://github.com/vivephp/skeleton/workflows/CI/badge.svg
-[actions-link]: https://github.com/vivephp/skeleton/actions "Skeleton status"
+[actions-icon]: https://github.com/siguici/skeleton/workflows/CI/badge.svg
+[actions-link]: https://github.com/siguici/skeleton/actions "Skeleton status"
 
 [pr-icon]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=brightgreen
 [pr-link]: [contrib-link] "PRs welcome!"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/vivephp.svg?label=@vivephp
-[twitter-link]: https://twitter.com/intent/follow?screen_name=vivephp "Ping Vive"
+[twitter-icon]: https://img.shields.io/twitter/follow/siguici.svg?label=@siguici
+[twitter-link]: https://twitter.com/intent/follow?screen_name=siguici "Ping Sigui"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-link]: https://github.com/vivephp/skeleton/blob/HEAD/LICENSE "Skeleton License"
-[conduct-link]: https://github.com/vivephp/skeleton/blob/HEAD/CODE_OF_CONDUCT.md
-[contrib-link]: https://github.com/vivephp/.github/blob/HEAD/CONTRIBUTING.md
-[discuss-link]: https://github.com/orgs/vivephp/discussions
-[docs-link]: https://github.com/vivephp/skeleton#readme "Skeleton Documentation"
+[license-link]: https://github.com/siguici/skeleton/blob/HEAD/LICENSE "Skeleton License"
+[conduct-link]: https://github.com/siguici/skeleton/blob/HEAD/CODE_OF_CONDUCT.md
+[contrib-link]: https://github.com/siguici/.github/blob/HEAD/CONTRIBUTING.md
+[discuss-link]: https://github.com/orgs/siguici/discussions
+[docs-link]: https://github.com/siguici/skeleton#readme "Skeleton Documentation"
 
 ***
 
-# 📦️ Vive Skeleton
+# 📦️ [Sigui][ske-link] Skeleton
 
-Create a new [Vive][vive-link] project based on this template.
+Create a new [@siguici][ske-link] project based on this template.
 
 ## 🔖 Contents
 
-- [📦️ Vive Skeleton](#️-vive-skeleton)
+- [📦️ Sigui Skeleton](#️-sigui-skeleton)
   - [🔖 Contents](#-contents)
   - [📋 Requirements](#-requirements)
   - [🎉 Getting Started](#-getting-started)
@@ -84,7 +84,7 @@ composer create-project vivephp/skeleton --prefer-source my-lib
 ```php
 <?php
 
-use Vive\Skeleton\Program;
+use Sigui\Skeleton\Program;
 
 $vendor_dir = __DIR__.'/vendor'; // Replace it by your vendor directory
 
